@@ -10,11 +10,10 @@ picture:          '<img class="mypic" src="../public/images/me.jpg">'
 title:            Vinnie Giarrusso
 tagline:          'San Francisco based Software Engineer'
 description:      'Software Engineer'
-url:              http://hyde.getpoole.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Vinnie Giarrusso'
+  url:            http://linkedin.com/in/vinniegiarrusso
 
 paginate:         5
 
