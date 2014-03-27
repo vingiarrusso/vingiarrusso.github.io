@@ -24,12 +24,13 @@
             </li>
           {% endif %}
         {% endif %}
-      {% endfor %}<!-- 
-      <li class="sidebar-nav-item"><a href="{{ site.linkedin }}">LinkedIn</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github }}">GitHub</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.angel }}">Angelist</a></li> -->
+      {% endfor %}
     </ul>
-
+    <div class="contactIcons">
+      <a href="{{ site.linkedin }}"><img class="contactIcon" src="../public/images/linkedin.png"></a>
+      <a href="{{ site.github }}"><img class="contactIcon" src="../public/images/Octocat.png"></a>
+      <a chref="{{ site.angel }}"><img class="contactIcon" src="../public/images/AngelList.png"></a>
+    </div>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
