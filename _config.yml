@@ -6,9 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
+picture:          '<img class="mypic" src="public/images/me.jpg">'
+title:            Vinnie Giarrusso
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Software Engineer'
 url:              http://hyde.getpoole.com
 
 author:
@@ -21,4 +22,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/vingiarrusso
