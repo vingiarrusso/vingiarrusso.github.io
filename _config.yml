@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-picture:          '<img class="mypic" src="public/images/me.jpg">'
+picture:          '<img class="mypic" src="../public/images/me.jpg">'
 title:            Vinnie Giarrusso
 tagline:          'A Jekyll theme'
 description:      'Software Engineer'
