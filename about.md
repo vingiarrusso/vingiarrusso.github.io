@@ -4,6 +4,6 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is currently being built.  Check back soon!
+ I'm a Full Stack Software Engineer specializing in Javascript and front end frameworks.
 </p>
 
