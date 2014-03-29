@@ -8,6 +8,6 @@ title: Portfolio
 </p>
 
 <div class = "movieRow">
-  <video class="famousMovie" src="../public/videos/phq4.mov" controls></video>
-  <video class="famousMovie" src="../public/videos/albumatic.mov" controls></video>
+  <video class="famousMovie" src="../public/videos/phq4.mp4" controls></video>
+  <video class="famousMovie" src="../public/videos/albumatic.mp4" controls></video>
 </div>
