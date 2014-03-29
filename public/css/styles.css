@@ -16,3 +16,9 @@
   height: 2rem;
   display: inline;
 }
+video {
+  height: 30rem;
+}
+.movieRow {
+  display: inline;
+}
