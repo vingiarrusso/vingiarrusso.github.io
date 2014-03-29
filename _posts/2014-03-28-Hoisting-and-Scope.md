@@ -56,7 +56,7 @@ Here's how JS will interpret this problem:
     x = 5; 
     (function myInnerFunc(){
       var x;
-      if(!x) { //this will evaluate to true when we invoke myFunc, because x at this point is undefined (a falsy value in JS)
+      if(!x) { //this will evaluate to true when we invoke myFunc,  because x at this point is undefined (a falsy value in JS)
         x = 2.5;
       }
       alert(x); // 2.5
